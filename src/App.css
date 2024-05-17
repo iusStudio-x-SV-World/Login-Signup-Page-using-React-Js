@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  margin: 0 auto;
+}
+
+.m-5-auto {
+  margin: 5rem auto;
+}
+
+.primary-button {
+  margin: 5rem 1rem 0 0;
+  padding: 0.6rem;
+  width: 10rem;
+  background: #222;
+  border: none;
+  color: #fff;
+  font-size: 1.2rem;
+  transition: all 0.5s;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+
+/*----------------Landing Page----------------*/
+
+.main-title,
+.main-para {
+  color: #f1f1f1;
+}
+
+.main-title {
+  padding: 10rem 0 0 0;
+  font-size: 5rem;
+  font-family: "Fascinate", cursive;
+  text-transform: uppercase;
+}
+
+.main-para {
+  font-size: 2.5rem;
+  text-transform: capitalize;
+}
+
+#reg-btn span {
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+#reg-btn span:after {
+  content: "\00bb";
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+#reg-btn:hover span {
+  padding: 0 25px 0 0;
+}
+
+#reg-btn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+/*----------------Register Page----------------*/
+
+#checkbox {
+  width: 1rem;
+}
+
+form span {
+  font-size: 0.8rem;
+}
+
+h2 {
+  font-weight: 300;
+}
+
+form {
+  display: inline-block;
+  background: #f3f3f3;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  padding: 2rem;
+  margin: 2rem 0 1rem 0;
+}
+
+form label {
+  float: left;
+  font-size: 0.9rem;
+  margin: 0;
+  padding: 0;
+}
+
+input {
+  width: 15rem;
+  padding: 0.3rem;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+}
+
+#sub-btn {
+  display: block;
+  width: 100%;
+  padding: 0.3rem;
+  border: none;
+  background: #222;
+  color: #fff;
+  border-radius: 3px;
+}
+
+footer p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+/*----------------Login Page----------------*/
+
+.right-label {
+  float: right;
+  cursor: pointer;
+}
+
+/*----------------Home Page----------------*/
+
+.home-page-title {
+  color: #222;
+}
