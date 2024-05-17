@@ -81,8 +81,10 @@ Explore more of my work and services:
 - **Ultrasound Rendering**
 - **Digital Arts**
 
-Visit my shop website: [Etsy-iusStudio](https://www.etsy.com/in-en/shop/iusStudio)
-
+Purchase our Shop Templates: 
+- [E-commerce Template](https://iusstudio.etsy.com/listing/1701238244)
+- [Accessories Template](https://iusstudio.etsy.com/listing/1702350790)
+- [Gadgets Template](https://iusstudio.etsy.com/listing/1729844763)
 ---
 
 Thank you for checking out the project! Your support and feedback are greatly appreciated. Happy coding!
