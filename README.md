@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple steps.
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/yourusername/login-signup-frontend.git
+   https://github.com/iusStudio-x-SV-World/Login-Signup-Page-using-React-Js.git
    ```
 2. **Install NPM packages**
    ```sh
